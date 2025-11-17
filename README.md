@@ -1,0 +1,2 @@
+# Portfolio
+A modern and responsive portfolio website for a video editor, built using ReactJS and React Bootstrap. Created as part of my summer internship project to showcase the editor’s work and profile with a clean and smooth UI.
