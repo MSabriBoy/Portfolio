@@ -15,6 +15,7 @@ const Footer = () => (
         <Col md={6} className="text-center text-md-end">
 
           <a
+          // placeholder link
             href="https://github.com/your‑github"
             target="_blank"
             rel="noopener noreferrer"
@@ -23,6 +24,7 @@ const Footer = () => (
             <FaGithub className="service-icon mb-3" size={24} />
           </a>
           <a
+          // placeholder link
             href="https://www.linkedin.com/in/your‑profile"
             target="_blank"
             rel="noopener noreferrer"
@@ -31,6 +33,7 @@ const Footer = () => (
             <FaLinkedin className="service-icon mb-3" size={24} />
           </a>
           <a
+          // placeholder link
             href="https://www.youtube.com/your‑channel"
             target="_blank"
             rel="noopener noreferrer"
